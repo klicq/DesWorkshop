@@ -1,0 +1,43 @@
+ALEX MORGAN — VISUAL DESIGNER
+FICTIONAL SAMPLE CV — replace all credentials before applying.
+
+CONTACT
+alex@example.com (reserved example address; not a working contact)
+Bristol, United Kingdom | Remote across Europe
+Sample availability: two days weekly for a six-month engagement
+
+PROFILE
+Independent visual designer focused on making technical subjects clear and
+approachable. Works across digital campaigns, editorial systems, diagrams,
+event materials, brand templates and motion direction.
+
+SAMPLE EXPERIENCE (all roles and employers are fictional)
+2023–Present | Independent visual designer
+Brand and campaign systems for technology teams; responsive prototypes,
+editable templates and documented handoff.
+
+2020–2023 | Visual designer, Northline Studio
+Editorial design, technical illustration and B2B marketing production.
+Supplier coordination, print preflight and multi-format asset delivery.
+
+2018–2020 | Junior designer, Common Practice
+Brand applications, presentation systems and production design.
+
+CONCEPT PROJECTS
+Orbit: API platform campaign spanning landing-page, social and poster concepts.
+Fieldguide: API publication system for print and digital reading.
+Assemble: Developer conference identity and motion storyboard direction.
+These are self-initiated fictional briefs, not commissioned work or measured
+business outcomes.
+
+TOOLS & WORKING KNOWLEDGE (sample credentials)
+Figma, Adobe Illustrator, Photoshop, InDesign, Premiere Pro, After Effects.
+Claude Code and Claude artifacts within established design systems.
+HTML, CSS, JavaScript; familiarity with Astro, GitHub and Vercel workflows.
+WordPress, Elementor, HubSpot CMS/CRM and Google Analytics.
+SEO, semantic page structure and collaboration on AI-search optimisation.
+
+APPROACH
+Agree priorities, share early, document decisions, verify accessibility,
+and deliver organised editable files. AI accelerates routine production;
+human review owns accuracy, consistency, rights and final quality.
