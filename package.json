@@ -1,0 +1,8 @@
+{
+  "name": "alex-morgan-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A buildless visual-design concept portfolio",
+  "scripts": { "start": "node scripts/serve.mjs", "check": "node --check script.js" },
+  "engines": { "node": ">=18" }
+}
